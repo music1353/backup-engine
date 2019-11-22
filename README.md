@@ -17,9 +17,9 @@ A python module easy to do local backup and google cloud backup for Flask web ap
 
 ## API
 
-###dbClinet - Tools for connect to database and then can easy to do local backup
+### dbClinet - Tools for connect to database and then can easy to do local backup
 
-####class `backup_engine.dbClient.Connect(db=None, client=None, host=None, port=None)`
+#### class `backup_engine.dbClient.Connect(db=None, client=None, host=None, port=None)`
 
 > Client object which is connecting to the database
 
